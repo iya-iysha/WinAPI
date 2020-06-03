@@ -1,0 +1,5 @@
+﻿  lab4.cpp
+C:\Users\Ия\Desktop\lab4\lab4.cpp(152,7): warning C4101: rect: неиспользованная локальная переменная
+C:\Users\Ия\Desktop\lab4\lab4.cpp(177,14): warning C4101: ps: неиспользованная локальная переменная
+C:\Users\Ия\Desktop\lab4\lab4.cpp(176,7): warning C4101: rect: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\Ия\Desktop\lab4\Debug\lab4.exe

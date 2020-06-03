@@ -1,0 +1,20 @@
+﻿  dz.cpp
+C:\Users\Ия\Desktop\dz\dz.cpp(164,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(164,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(167,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(167,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(194,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(194,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(197,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(197,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(218,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(221,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(222,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(240,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(243,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(244,26): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(281,20): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(281,16): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(282,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Ия\Desktop\dz\dz.cpp(282,21): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  dz.vcxproj -> C:\Users\Ия\Desktop\dz\Debug\dz.exe
