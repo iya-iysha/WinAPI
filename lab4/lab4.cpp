@@ -152,19 +152,16 @@ DWORD WINAPI Thread2(LPVOID t)
 	RECT rect;
 	PAINTSTRUCT ps;
 	TCHAR buff[300];
-	int sec = 1025;
 	RECT recta = { 410,240,510,290 };
 	while (gfin)
 	{
 		InvalidateRect((HWND)t, &recta, TRUE);
 		UpdateWindow((HWND)t);
-		_stprintf(buff, TEXT("%d"), sec);
-	//	_stprintf(buff, TEXT("%d"), GetCurrentTime());
+		_stprintf(buff, TEXT("%d"), GetCurrentTime());
 		HDC hdc1 = GetDC(HWND(t));
 		SetTextColor(hdc1, RGB(rand() % 255, rand() % 255, rand() % 255));
 		TextOut(hdc1, 420, 250, buff, _tcslen(buff));
 		EndPaint(HWND(t), &ps);
-		sec--;
 		Sleep(150);
 	}
 	a = 0;
